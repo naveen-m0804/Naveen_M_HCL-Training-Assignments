@@ -1,0 +1,18 @@
+Day 7: 28-Nov – Fri		OOPs Concept
+
+1.	Create a Student class that securely stores the student’s name, rollNo, and marks. 
+Make all variables private and provide getters and setters to access/update the values. 
+Add validation in the setter to ensure marks are never below 0 or above 100.
+
+
+
+2.	Create parent class BankAccount with 
+a.	properties accountNo, balance,  and 
+b.	Methods deposit(), withdraw(). 
+Create subclass SavingsAccount  with 
+a.	Properties interest rate,
+b.	methods addInterest()
+Create subclass SalaryAccount with 
+a.	properties monthlySalary
+b.	methods creditSalary().
+
