@@ -1,0 +1,24 @@
+1.	Write a selenium script to demonstrate how to use LinkText and Partial Link Text for any website.
+2.	For the given webstie https://rahulshettyacademy.com/AutomationPractice/ write a selenium program to select Raio button, two check boxes out of three. 
+3.	Write down the purpose of below Driver methods / Browser Commands in 1 or 2 lines
+a.	get()
+b.	getCurrentURL()
+c.	getPageSource()
+d.	getTitle()
+e.	close() vs quit()
+f.	getWindowHandle()
+g.	getWindowHandles()
+h.	navitate()
+i.	switchTo()
+4.	Write down the purpose of below WebElement methods / WebElement commands in 1 or 2 lines
+a.	sendKeys()
+b.	clear()
+c.	click()
+d.	findElement()
+e.	findElements()
+f.	getDomAttribute()
+g.	getScreenShotAs()
+h.	getText()
+i.	isDisplayed()
+j.	isEnabled()
+k.	isSelected()
